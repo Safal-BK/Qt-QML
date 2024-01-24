@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>upper.qml</file>
+        <file>bottom.qml</file>
+        <file>images/3dots.png</file>
+        <file>images/camera.png</file>
+        <file>images/download.png</file>
+        <file>images/lens.png</file>
+        <file>images/user.png</file>
+        <file>staus.qml</file>
+        <file>calls.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+{
+    "name": "whatsapp.whatsapp",
+    "description": "demo",
+    "architecture": "@CLICK_ARCH@",
+    "title": "demo",
+    "hooks": {
+        "whatsapp": {
+            "apparmor": "whatsapp.apparmor",
+            "desktop":  "whatsapp.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "safal <safalbk333@gmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
